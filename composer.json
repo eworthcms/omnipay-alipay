@@ -33,7 +33,7 @@
     "ext-json": "*",
     "ext-openssl": "*",
     "omnipay/common": "^3.0",
-    "php-http/guzzle6-adapter": "^2.0"
+    "guzzlehttp/guzzle": "^7.0"
   },
   "require-dev": {
     "omnipay/tests": "^3.0",
